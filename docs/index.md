@@ -1,4 +1,4 @@
-# road2soc1
+# x0r notes
 
 Hi. This is my attempt to publish my notes onto Github Pages.
 

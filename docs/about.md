@@ -1,6 +1,6 @@
 # About
 
-# SOC Level 1
+## SOC Level 1
 
 This are the notes I took while going through SOC Level 1 path @ Tryhackme.com.
 
