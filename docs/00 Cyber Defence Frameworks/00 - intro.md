@@ -51,3 +51,8 @@ What is included in the responsibilities for the SOC?
 
 
 ## A day In the life of a Junior (Associate) Security Analyst
+
+- Inspect alerts in the SIEM dashboard. Look for malicious IP address from alerts, make notes.
+- There are many open-source databases out there like AbuseIPDB, Cisco Talos Intelligence, where you can perform a reputation and location check for the IP address. Most security analysts use these tools to aid them with alert investigations. You can also make the Internet safer by reporting the malicious IPs, for example, on AbuseIPDB.
+- Escalate the event to the right person
+- Add the malicious IP on the firewall block list
